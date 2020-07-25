@@ -1,1 +1,1 @@
-# bootstrap-simple
+Simple bootstrap4 project for test purpose
